@@ -18,5 +18,5 @@ To draw the relations between different factors such as age,occupation,commute d
 
 ## Screenshots (or any images relevant to your project)
 
-![Image 1](Image 1.png)
-![Image 2](Image 2.png)
+![Image 1](Image1.png)
+![Image 2](Image2.png)
